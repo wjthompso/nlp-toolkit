@@ -1,5 +1,5 @@
 visualization_tools/token.json
-/myvenv/
+myvenv/
 __pycache__/
 .vscode/
 myvenv
