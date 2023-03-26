@@ -6,4 +6,5 @@ ThoughtGrouper: A class which groups similar sentences within each document in a
 - `KeywordExtractor`: A class which extracts keywords and phrases and candidate topic labels from a given set of documents.
 - `ImagePresentation`: A class that takes a list of image file paths, uploads those images to Google Cloud Platform (GCP), obtains signed URLs for each image on GCP, and then uses those signed URLs to create a Google Slides presentation with each image on a different slide.
 - `HistogramPresentation`: A class which takes a pandas DataFrame with columns to be converted to a series of histograms or a column chart.
+
 This repository can be used for a variety of purposes, such as clustering similar documents, analyzing sentiment, extracting keywords and phrases, creating image presentations, and generating histograms.
