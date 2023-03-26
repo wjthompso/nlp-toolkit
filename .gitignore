@@ -1,5 +1,6 @@
 visualization_tools/token.json
-myvenv/
+myenv/
+.DS_Store
 __pycache__/
 .vscode/
 myvenv

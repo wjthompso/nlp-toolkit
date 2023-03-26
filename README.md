@@ -1,2 +1,1 @@
-# nlp-toolkit
-This is a list of NLP tools and visualization elements.
+This is a collection of tools I've built for contract work. The relevant data for the contract work is private, but the tools are not.
